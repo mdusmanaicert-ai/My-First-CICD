@@ -1,0 +1,11 @@
+
+{
+  "name": "my-first-cicd",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My first CI/CD website project",
+  "scripts": {
+    "test": "node --test",
+    "build": "node scripts/build.js"
+  }
+}
